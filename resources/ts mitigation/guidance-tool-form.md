@@ -2,7 +2,7 @@
 
 **Contributor:** Threat Sketch, LLC https://threatsketch.com
 
-**Contributor GitHub Username:** @[username] threatsketch
+**Contributor GitHub Username:** @Threat-Sketch (company) @threatsketch (submitter)
 
 **Resource:** https://threatsketch.com/ts-mitigation/
 
