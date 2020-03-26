@@ -1,14 +1,14 @@
 # Guidance & Tools Contribution Form
 
-**Contributor:** Threat Sketch, LLC https://threatsketch.com
+**Contributor:** Threat Sketch, LLC -> https://threatsketch.com
 
 **Contributor GitHub Username:** @Threat-Sketch
 
-**Resource:** For the latest version, visit https://threatsketch.com/ts-mitigation/
+**Resource:** For the latest version, please visit https://threatsketch.com/ts-mitigation/
 
 **Related Documentation:** https://threatsketch.com/ts-jurisdiction/ A related knowledgebase for accelerating and automating data privacy research, which integrates with **ts mitigation™**
 
-**Guidance/Tool Name:** ts mitigation™
+**Guidance/Tool Name:** **ts mitigation™**
 
 **Associated Core Classification:** Mappings for subcategories which intersect the NIST Data Privacy Framework and the NIST Cybersecurity Framework.
 
