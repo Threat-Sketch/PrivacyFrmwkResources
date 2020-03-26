@@ -4,7 +4,7 @@
 
 **Contributor GitHub Username:** @Threat-Sketch
 
-**Resource:** https://threatsketch.com/ts-mitigation/
+**Resource:** For the latest version, visit https://threatsketch.com/ts-mitigation/
 
 **Related Documentation:** https://threatsketch.com/ts-jurisdiction/ A related knowledgebase for accelerating and automating data privacy research, which integrates with **ts mitigation™**
 
