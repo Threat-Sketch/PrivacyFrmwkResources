@@ -6,7 +6,7 @@
 
 **Resource:** For the latest version, please visit https://threatsketch.com/ts-mitigation/
 
-**Related Documentation:** https://threatsketch.com/ts-jurisdiction/ A related knowledgebase for accelerating and automating data privacy research, which integrates with **ts mitigation™**
+**Related Documentation:** https://threatsketch.com/ts-jurisdiction/ A related knowledgebase for accelerating and automating data privacy research that integrates with **ts mitigation™**
 
 **Guidance/Tool Name:** **ts mitigation™**
 
