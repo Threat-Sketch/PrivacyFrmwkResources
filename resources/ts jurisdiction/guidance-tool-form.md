@@ -12,4 +12,4 @@
 
 **Associated Core Classification:** Mappings for US State & Federal laws that intersect the NIST Data Privacy Framework and the NIST Cybersecurity Framework core functions: Identify, Protect, Detect, Resoond, Recover, Govern, Control, and Communicate.
 
-**Contributor Notes:** The **ts jurisdiction™** research platform maps 380+ US & Federal laws to the NIST Privacy Framework and the NIST Cybersecurity Framework.  It includes in depth analysis of each body of law written in language digestible by business leaders.  The platform is desigend to augment and accellerate data privacy reserach in very large sale supply chain and portfolio use cases that demand extreme scabablity.
+**Contributor Notes:** The **ts jurisdiction™** research platform maps 380+ US & Federal laws to the NIST Privacy Framework and the NIST Cybersecurity Framework.  It includes in depth analysis of each body of law written in language digestible by business leaders.  The platform is desigend to augment and accellerate data privacy research in  large sale supply chain and portfolio use cases that demand extreme scabablity.
