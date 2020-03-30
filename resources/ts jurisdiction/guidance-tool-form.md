@@ -4,7 +4,7 @@
 
 **Contributor GitHub Username:** @Threat-Sketch
 
-**Resource:** For the latest version, please visit https://threatsketch.com/ts-jurisdiction/
+**Resource:** Online at https://threatsketch.com/ts-jurisdiction/
 
 **Related Documentation:** https://threatsketch.com/ts-mitigation/ A related knowledgebase for accelerating and automating cyber risk reduction that integrates with **ts jurisdiction™**
 
